@@ -4,6 +4,8 @@ description: This resource provides information related to barge design optimiza
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/0eb38247a2d6c660865d8b0005a0693c_MITESD_77S10_pres04.pdf
 file_size: 524289
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

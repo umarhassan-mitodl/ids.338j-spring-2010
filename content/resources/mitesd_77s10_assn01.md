@@ -5,6 +5,8 @@ description: This resource provides information related to multidisciplinary sys
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/24861381967d4a21b9d421a6eb6ff79b_MITESD_77S10_assn01.pdf
 file_size: 61143
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

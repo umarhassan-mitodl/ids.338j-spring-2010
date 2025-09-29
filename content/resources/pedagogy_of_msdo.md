@@ -4,6 +4,8 @@ description: ''
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/04809309af95cb7a690dd9a378cf0310_Pedagogy_of_MSDO.jpg
 file_size: 57317
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

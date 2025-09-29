@@ -4,6 +4,8 @@ description: This resource contains information related to subsystems, and MDO.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/a0929d6d3b7a813a2f2d64e8a83257d5_MITESD_77S10_lec01.pdf
 file_size: 2018587
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

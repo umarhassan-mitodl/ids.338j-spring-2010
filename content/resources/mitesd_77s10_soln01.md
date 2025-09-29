@@ -4,6 +4,8 @@ description: This resource contains information related to A1 solutions.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/5799ee340f4e099e75d1d1db8c0cfabd_MITESD_77S10_soln01.pdf
 file_size: 364860
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

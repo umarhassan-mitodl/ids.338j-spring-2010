@@ -5,6 +5,8 @@ description: This resource provides information related to revisit of bridge des
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/2dcaf124af699682d2449fb44cc381d7_MITESD_77S10_assn05.pdf
 file_size: 79258
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource provides information related to simulated annealing.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/7a08877e1c5cba30b44db0ad6b95e4d7_MITESD_77S10_lec10.pdf
 file_size: 687621
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

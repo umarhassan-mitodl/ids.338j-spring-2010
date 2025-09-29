@@ -5,6 +5,8 @@ description: This resource contains information related to wind turbine blade de
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/bad11a7547e8d6c99cab7c52f5062efb_MITESD_77S10_paper01.pdf
 file_size: 436277
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
