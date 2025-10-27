@@ -4,8 +4,6 @@ description: This resource provides information related to assignment 4 part a s
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/7baf19da05cbcf9a3967a6d44b59d0e5_MITESD_77S10_soln04.pdf
 file_size: 158117
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

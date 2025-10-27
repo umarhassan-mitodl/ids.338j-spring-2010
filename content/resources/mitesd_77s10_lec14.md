@@ -4,8 +4,6 @@ description: This resource contains information related to multiobjective optimi
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/f091204b62ab5bb46825829fdedc66cd_MITESD_77S10_lec14.pdf
 file_size: 2421836
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

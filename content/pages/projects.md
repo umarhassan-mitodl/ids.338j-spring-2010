@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides guidelines for the course project, the project
   oral presentation grading rubric, and examples of student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

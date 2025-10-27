@@ -5,8 +5,6 @@ description: This resource provides information related to space shuttle externa
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/8e81fb441aac0e1ec0bcb11d29e6bc46_MITESD_77S10_paper05.pdf
 file_size: 982697
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

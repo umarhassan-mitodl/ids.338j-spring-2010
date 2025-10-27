@@ -4,8 +4,6 @@ description: This resource provides information related to supersonic business j
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/bb23410901ab34652b0e5008177040ea_MITESD_77S10_pres03.pdf
 file_size: 851463
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

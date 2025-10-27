@@ -4,8 +4,6 @@ description: This resource contains information related to design of experiments
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/dde9bb38a44c4b88ead2e83eb68709a0_MITESD_77S10_soln02.pdf
 file_size: 152145
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

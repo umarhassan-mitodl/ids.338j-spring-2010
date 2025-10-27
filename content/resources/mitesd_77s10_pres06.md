@@ -5,8 +5,6 @@ description: 'This resource provides information related to airbag-based crew im
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/25f068cd9e9718bd514ba71d25eb39b2_MITESD_77S10_pres06.pdf
 file_size: 1048208
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

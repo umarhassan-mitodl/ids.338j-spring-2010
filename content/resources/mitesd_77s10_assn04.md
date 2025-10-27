@@ -5,8 +5,6 @@ description: This resource provides information related to genetic algorithms, m
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/418d122938db3b1d7085b2312b6aa3c3_MITESD_77S10_assn04.pdf
 file_size: 92097
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource is a supporting file for assignments.
 file: /courses/ids-338j-multidisciplinary-system-design-optimization-spring-2010/050e5ad7034022da1c8485d3f029a92d_assn02a.xls
 file_size: 25600
 file_type: application/vnd.ms-excel
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
